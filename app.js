@@ -147,7 +147,6 @@ mongoose.connect(`mongodb+srv://${dbUser}:${dbPassword}@cluster0.t8i0ty2.mongodb
    
    
     
-// USERNAME: JONATAS
-//PASSWORD: rbTQRWgbeDHKN7Lz
+
   
    
